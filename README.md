@@ -1,4 +1,4 @@
-# 🎬 Netflix Movie Recommendation Engine
+# 🎬 Netflix Movie Recommendation
 
 A collaborative filtering–based recommendation system that suggests movies to users based on their viewing and rating patterns, built using Singular Value Decomposition (SVD).
 
