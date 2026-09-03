@@ -65,7 +65,7 @@ netflix-recommendation-engine/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/netflix-recommendation-engine.git
+   git clone https://github.com/<SUCHITHREDDY3087>/netflix-recommendation-engine.git
    cd netflix-recommendation-engine
    ```
 
