@@ -95,7 +95,11 @@ netflix-recommendation-engine/
 - Generated meaningful top-N recommendations that align with user rating history
 - Uncovered patterns in viewing behavior, including popular genres and rating distributions
 
-*(Add specific numbers here once finalized — e.g., RMSE score, dataset size, number of users/movies)*
+-470,758 users
+-4,499 Movies  
+-RMSE: 1.02
+-MAE: 0.81
+
 
 ---
 
@@ -109,8 +113,8 @@ netflix-recommendation-engine/
 
 ## 👤 Author
 
-**Suchith**
-B.Tech Computer Science | Data Scientist Enthusiast
+**Suchith Reddy**
+B.Tech Computer Science
 
 ---
 
